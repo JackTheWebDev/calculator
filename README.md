@@ -1,2 +1,2 @@
-# caclulator
-A Html Caclulator 
+# calculator
+an html calculator
